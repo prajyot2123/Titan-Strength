@@ -99,6 +99,3 @@ The app will run on:
 Your Name  
 GitHub: https://github.com/prajyot2123  
 LinkedIn: https://www.linkedin.com/in/prajyot-deshpande-667b11250
-. A shorter one-page README version (clean and recruiter-friendly)
-2. A polished “production-style” README with badges, screenshots, and demo sections
-3. A version with exact scripts/endpoints matching your current package.json files
